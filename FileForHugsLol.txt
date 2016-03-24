@@ -1,11 +1,3 @@
-<<<<<<< .mine
 Yo
-
-
-
-
-m||||||| .r2
-Yo=======
-Yo
-
-beware>>>>>>> .r3
+beware
+aware
