@@ -1,3 +1,17 @@
 Yo
+<<<<<<< .mine
+aware
+dont||||||| .r4
+
+
+
+
+m||||||| .r2
+Yo=======
+Yo
+
+beware>>>>>>> .r3
+=======
 beware
 aware
+>>>>>>> .r5
