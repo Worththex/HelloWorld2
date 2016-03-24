@@ -1,2 +1,6 @@
+<<<<<<< .mine
 HelloWorld
-HelloAgain
+HelloThere||||||| .r7
+HelloWorld=======
+HelloWorld
+HelloAgain>>>>>>> .r8
